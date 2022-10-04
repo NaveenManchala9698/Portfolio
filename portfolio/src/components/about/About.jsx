@@ -1,12 +1,12 @@
 import React from "react";
 import "./About.css";
 import Image from "../../assets/avatar-2.svg";
-import Resume from "../../assets/resume.pdf";
+import NaveenCV from "../../assets/NaveenCV.pdf";
 import AboutBox from "./AboutBox";
 
 const About = () => {
   const downloadResume = async () => {
-    window.open(Resume, "_blank");
+    window.open(NaveenCV, "_blank");
   };
 
   return (
