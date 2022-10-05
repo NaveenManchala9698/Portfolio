@@ -23,7 +23,8 @@ const Sidebar = (props) => {
     <>
       <aside className={toggle ? "aside show-menu" : "aside"}>
         <a href="#home" className="nav__logo">
-          <img src={props.theme === "light" ? LightLogo : Logo} alt="logo" />
+          {/* <img src={props.theme === "light" ? LightLogo : Logo} alt="logo" /> */}
+          <p>NM</p>
         </a>
 
         <nav className="nav">

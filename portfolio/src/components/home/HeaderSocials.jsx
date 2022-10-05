@@ -4,15 +4,14 @@ import {
   FaFacebookF,
   FaLinkedinIn,
   FaTwitter,
-  FaDev,
+  FaInstagram,
 } from "react-icons/fa";
-import { SiHashnode } from "react-icons/si";
 
 const HeaderSocials = () => {
   return (
     <div className="home__socials">
       <a
-        href="https://www.github.com/GregSithole"
+        href="https://github.com/NaveenManchala9698"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
@@ -20,14 +19,14 @@ const HeaderSocials = () => {
         <FaGithub />
       </a>
 
-      <a
+      {/* <a
         href="https://hashnode.com/@gregsithole"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
       >
         <SiHashnode />
-      </a>
+      </a> */}
 
       <a
         href="https://dev.to/gregsithole"
@@ -35,11 +34,11 @@ const HeaderSocials = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <FaDev />
+        <FaInstagram />
       </a>
 
       <a
-        href="https://www.linkedin.com/in/greg-sithole-b6350558/"
+        href="https://www.linkedin.com/in/naveen9698/"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"

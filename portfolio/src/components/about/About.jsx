@@ -19,16 +19,18 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hello! I'm Greg, and I'm based in Johannesburg, South Africa. I
-              studied at Varisty College Sandton, where I completed my diploma
-              in Software Development.
+              Hello! I'm Naveen, and I live in Freiberg, Germany. I recently
+              completed a 6-month intense Frontend Web Development course at
+              EPICODE, a digital skills training institution that provides Web
+              Development bootcamps.
               <br />
               <br />
-              Fastforward to today, and I can honestly say it's been a beautiful
-              journery and I hope to grow even further as Software Engineer. My
-              current focus these days is on expanidng my portfolio by building
-              more projects that I can add on here, as well as being a great
-              team player at my current role.
+              I am a mechanical engineering graduate who has always wanted to be
+              a web developer. I've attended many web development classes and
+              self-taught HTML, CSS, and JavaScript. I worked on various
+              real-world projects that provided me with valuable skills for Web
+              Development. I'm now seeking for new projects to add to my
+              portfolio.
               <br />
               <br />
               Here are a few technologies I’ve been working with recently:
@@ -38,8 +40,8 @@ const About = () => {
               <li>TypeScript</li>
               <li>React</li>
               <li>Node.js</li>
-              <li>Postgres SQL</li>
-              <li>NestJS</li>
+              <li>Redux</li>
+              <li>RESI API's</li>
             </ul>
             <button className="btn" onClick={downloadResume}>
               Donwload CV

@@ -179,5 +179,7 @@ img {
 }
 
 .btn:hover {
-  animation: button-push 0.3s linear 1;
+  /* animation: button-push 0.3s linear 1; */
+  transform: translateY(-0.25em);
+  box-shadow: 0 0.5em 0.5em -0.4em #ffa260;
 }
