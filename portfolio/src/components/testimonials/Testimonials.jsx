@@ -2,6 +2,8 @@ import React from "react";
 import "./Testimonials.css";
 import Image3 from "../../assets/avatar-3.svg";
 import Image4 from "../../assets/avatar-4.svg";
+import Woman1 from "../../assets/Woman 1.png";
+import Woman2 from "../../assets/Woman 2.png";
 
 import { Pagination } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -13,19 +15,19 @@ const Testimonials = () => {
   const data = [
     {
       id: 1,
-      image: Image3,
-      title: "Thapelo Kekana",
-      subtitle: "Frontend Developer @ FNB",
+      image: Woman1,
+      title: "Samreen Saba",
+      subtitle: "Frontend Developer",
       comment:
-        "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+        "Ridiculously efficient’ is the phrase that comes to mind when I think about Naveen. I had the pleasure of working with Naveen while studying Frontend development at Epicode. I worked with Naveen on projects and I was particularly impressed by Naveen's ability to handle toughest task efficiently. Naveen is very organised and maintains dead lines.",
     },
     {
       id: 2,
-      image: Image4,
-      title: "Deepak Reddy",
-      subtitle: "Software Developer @ BMW Group South Africa",
+      image: Woman2,
+      title: "Harika Kommuri",
+      subtitle: "Frontend Developer",
       comment:
-        "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+        "My first interaction with Naveen was during the build week project at Epicode. Our task was to recreate the LinkedIn web page using HTML, CSS, JavaScript, Bootstrap and React JS. I found him helpful and patient. He was able to handle stress during tight deadlines. He has an extensive knowledge in deploying various Frontend tools. It was a pleasure working together with him and I would highly recommend him. 👍",
     },
   ];
 

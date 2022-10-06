@@ -55,24 +55,11 @@ const Portfolio = () => {
               : "portfolio__item"
           }
           onClick={() => {
-            filterItems("Backend");
+            filterItems("JavaScript");
             setActiveFilter(2);
           }}
         >
-          Backend
-        </span>
-        <span
-          className={
-            activeFilter === 3
-              ? "portfolio__item portfolio__item-active"
-              : "portfolio__item"
-          }
-          onClick={() => {
-            filterItems("Angular");
-            setActiveFilter(3);
-          }}
-        >
-          Angular
+          JavaScript
         </span>
         <span
           className={
@@ -105,6 +92,7 @@ const Portfolio = () => {
             >
               <div className="portfolio__thumbnail">
                 <img src={image} alt="" className="portfolio__img" />
+
                 <div className="portfolio__mask"></div>
               </div>
 
