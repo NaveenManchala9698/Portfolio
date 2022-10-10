@@ -5,6 +5,8 @@ import NMart1 from "../../assets/NMart Homepage.png";
 import Linkedin1 from "../../assets/Linkedin Homepage.png";
 import Weather1 from "../../assets/Weather App 1.png";
 import Job1 from "../../assets/Job Results.png";
+import Spotify1 from "../../assets/Spotify 1.png";
+import Flight1 from "../../assets/Flight 1.png";
 
 const Menu = [
   {
@@ -38,6 +40,22 @@ const Menu = [
     category: ["Frontend", "React", "Redux"],
     url: "https://jobsearch-naveen9698.netlify.app/",
     repositoryUrl: "https://github.com/NaveenManchala9698/Job-Search-App",
+  },
+  {
+    id: 5,
+    image: Spotify1,
+    title: "Spotify Clone",
+    category: ["Frontend", "React", "Redux"],
+    url: "https://spotify-9698-clone.netlify.app/",
+    repositoryUrl: "https://github.com/NaveenManchala9698/react-music-player",
+  },
+  {
+    id: 6,
+    image: Flight1,
+    title: "Space Flight News",
+    category: ["Frontend", "React", "TypeScript"],
+    url: "https://flight-news-ts.netlify.app/",
+    repositoryUrl: "https://github.com/NaveenManchala9698/SpaceFlightNews-TS",
   },
 ];
 
