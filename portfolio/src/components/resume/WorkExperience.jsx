@@ -5,8 +5,10 @@ const WorkExperience = [
     company: "EPICODE",
     yearsActive: "March 2022 - September 2022",
     information: [
-      "Write modern, performant, maintainable code for a diverse array of internal projects",
-      "Communicate with multi-disciplinary teams of engineers, team leads, and QA Engineers on a daily basis",
+      "A training Bootcamp where you learn to code from scratch and acquire skills that are in high demand",
+      "Build complicated and high performing websites",
+      "Professional and highly experienced staff",
+      "Worked well independently and on a team to solve problems.",
     ],
   },
   {
@@ -28,8 +30,8 @@ const WorkExperience = [
     degree: "Bachelor of Technology",
     yearsActive: "June 2015 - April 2019",
     information: [
-      "Planned, developed, tested, deployed, and maintained web applications and mobile applications",
-      "Worked well independently and on a team to solve problems.",
+      "Built a go-karting vehicle from scratch as a team lead which received the 'Best low-cost manufacturer' award",
+      "Worked on several individual and group projects.",
     ],
   },
   {
@@ -38,8 +40,8 @@ const WorkExperience = [
     company: "Sri Chaitanya Junior College",
     yearsActive: "June 2013 - April 2015",
     information: [
-      "Served as a dedicated and supportive Intern in a fast-paced environment",
-      "Worked to solve complex problems using the latest in Mobile and Web Technologies.",
+      "Learned several basic concepts of Mathematics, Physics and Chemistry.",
+      "Practical individual projects ",
     ],
   },
   /* {
