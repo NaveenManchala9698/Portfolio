@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import {
   FaGithub,
@@ -29,7 +30,7 @@ const HeaderSocials = () => {
       </a> */}
 
       <a
-        href="https://dev.to/gregsithole"
+        href="https://www.instagram.com/mnaveen9698/"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
@@ -47,7 +48,7 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://wwww.facebook.com/Greg.Sithole"
+        href="https://www.facebook.com/mnk98/"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
@@ -56,7 +57,7 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://www.twitter.com/GregSithole"
+        href="#"
         className="home__social-link"
         target="__blank"
         rel="noreferrer"

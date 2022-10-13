@@ -44,8 +44,9 @@ const About = () => {
               <li>Redux</li>
               <li>RESI API's</li>
             </ul>
-            <button className="btn" onClick={downloadResume}>
-              Donwload CV
+            <button className="custom-btn btn-12" onClick={downloadResume}>
+              <span>Click!</span>
+              <span>Donwload CV</span>
             </button>
           </div>
 

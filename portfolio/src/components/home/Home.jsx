@@ -11,12 +11,12 @@ const Home = () => {
     <section className="home container" id="home">
       <div className="intro">
         <img src={me} alt="" className="home__img" width="150" />
-        <h1 className="home__name">Naveen Kumar Manchala</h1>
+        <h1 className="home__name">NAVEEN KUMAR MANCHALA</h1>
         <span className="home__education">I'm a Frontend Developer</span>
 
         <HeaderSocials />
 
-        <a href="#contact" className="btn">
+        <a href="#contact" className="custom-btn btn-5">
           {" "}
           Contact Me
         </a>

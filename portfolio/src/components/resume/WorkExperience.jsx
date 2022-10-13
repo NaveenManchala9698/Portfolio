@@ -17,11 +17,7 @@ const WorkExperience = [
     company: "TU Bergakademie Freiberg",
     degree: "Master of Science",
     yearsActive: "October 2019 - Present",
-    information: [
-      "Improved and optimized the company's website for a seamless customer experience",
-      "Created, communicated, and managed project plans & project timelines",
-      "Worked to continually meet the expectation of our clients",
-    ],
+    information: [""],
   },
   {
     id: 3,
@@ -31,7 +27,7 @@ const WorkExperience = [
     yearsActive: "June 2015 - April 2019",
     information: [
       "Built a go-karting vehicle from scratch as a team lead which received the 'Best low-cost manufacturer' award",
-      "Worked on several individual and group projects.",
+      "Worked on several individual and group projects as Team lead.",
     ],
   },
   {

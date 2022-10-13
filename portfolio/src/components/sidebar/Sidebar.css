@@ -17,7 +17,7 @@ aside {
 .nav__logo {
   font-family: "Zen Tokyo Zoo", cursive;
   font-size: 35px;
-  color: coral;
+  color: rgb(159, 47, 190);
 }
 
 .nav__list {
@@ -34,7 +34,7 @@ aside {
 }
 
 .nav__link:hover {
-  color: hsl(43, 100%, 68%);
+  color: #4bffa5;
 }
 
 .footer__button {
