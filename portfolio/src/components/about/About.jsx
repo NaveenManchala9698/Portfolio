@@ -2,7 +2,7 @@ import React from "react";
 import "./About.css";
 import Image from "../../assets/avatar-2.svg";
 import Image2 from "../../assets/Naveen 3.png";
-import NaveenCV from "../../assets/NaveenCV.pdf";
+import NaveenCV from "../../assets/Naveen CV2.pdf";
 import AboutBox from "./AboutBox";
 
 const About = () => {
